@@ -3,10 +3,14 @@ Earth explorer is an interactive website that teaches people about earth science
 
 # USing NASA Data Set
  https://www.nasa.gov/topics/earth/index.html
+ 
  https://earthobservatory.nasa.gov/
+ 
  https://solarsystem.nasa.gov/planets/earth/overview/
+ 
  https://science.nasa.gov/earth-science
+ 
  https://spaceplace.nasa.gov/menu/earth/
 
-#Our Website
+# Our Website
 https://earthexplorer.000webhostapp.com/index.php
